@@ -10,9 +10,6 @@ export default function Home() {
         <p class="my-6">
           wafuwafu13 page
         </p>
-        <video controls width="250">
-         {/* <source src={sample} type="video/mp4" /> */}
-        </video>
       </div>
     </>
   );
