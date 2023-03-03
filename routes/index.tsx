@@ -1,4 +1,6 @@
 import { Head } from "$fresh/runtime.ts";
+import { Link } from "../components/link.tsx";
+import { YouTube } from "../components/youtube.tsx";
 
 export default function Home() {
   return (
@@ -6,20 +8,17 @@ export default function Home() {
       <Head>
         <title>wafuwafu13</title>
       </Head>
-      <div class="p-4 mx-auto max-w-screen-md">
-        <p class="my-6">
-          wafuwafu13 page
-        </p>
-        <iframe
-          width="560"
-          height="315"
-          src="https://www.youtube.com/embed/44XO1a5gjl8"
-          title="YouTube video player"
-          frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowFullScreen
-        >
-        </iframe>
+      <div>
+        <Link href="https://github.com/wafuwafu13" title="GitHub" />
+        <Link
+          href="https://www.linkedin.com/in/hirotaka-tagawa/"
+          title="LinkedIn"
+        />
+        <Link
+          href="https://wafuwafu13.hatenadiary.com/"
+          title="Blog(Japanese)"
+        />
+        <YouTube src="https://www.youtube.com/embed/44XO1a5gjl8" />
       </div>
     </>
   );
