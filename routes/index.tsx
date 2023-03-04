@@ -1,6 +1,7 @@
 import { Head } from "$fresh/runtime.ts";
 import { Link } from "../components/link.tsx";
-import { YouTube } from "../components/youtube.tsx";
+import { Walking } from "../components/walking.tsx";
+import WalkingJson from "../static/walking.json" assert { type: "json" };
 
 export default function Home() {
   return (
@@ -20,11 +21,16 @@ export default function Home() {
         />
         <p class="flex justify-center my-8">
           I like walking.
-          <a href="" class="mx-2" style={{ color: "blue" }} target="_blank">
-            view more
+          <a href="/walking" class="mx-2" style={{ color: "blue" }}>
+            watch more video
           </a>
         </p>
-        <YouTube src="https://www.youtube.com/embed/44XO1a5gjl8" />
+        <Walking
+          youtubeSrc={WalkingJson.japanFujinomori.youtubeSrc}
+          mapSrc={WalkingJson.japanFujinomori.mapSrc}
+          title={WalkingJson.japanFujinomori.title}
+          id="a"
+        />
       </div>
     </>
   );
