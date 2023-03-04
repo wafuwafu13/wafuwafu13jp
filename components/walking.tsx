@@ -8,16 +8,14 @@ type WalkingProps = {
 export function Walking({ youtubeSrc, mapSrc, title, id }: WalkingProps) {
   return (
     <div class="flex flex-col justify-center items-center my-8">
-      <div>
-        <p class="my-2" id={id}>
-          <a href={"#" + id}>
-            {title}
-          </a>
-        </p>
-      </div>
+      <p class="my-2" id={id}>
+        <a href={"#" + id}>
+          {title}
+        </a>
+      </p>
       <iframe
-        width="560"
-        height="315"
+        width="360"
+        height="360"
         src={youtubeSrc}
         title="Walking video player"
         frameBorder="0"
@@ -28,8 +26,8 @@ export function Walking({ youtubeSrc, mapSrc, title, id }: WalkingProps) {
       </iframe>
       <iframe
         src={mapSrc}
-        width="560"
-        height="315"
+        width="360"
+        height="360"
         frameBorder="0"
         allowFullScreen
         loading="lazy"
