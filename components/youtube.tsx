@@ -4,7 +4,7 @@ type YouTubeProps = {
 
 export function YouTube({ src }: YouTubeProps) {
   return (
-    <div>
+    <div class="flex justify-center my-8">
       <iframe
         width="560"
         height="315"
