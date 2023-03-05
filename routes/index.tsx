@@ -9,27 +9,47 @@ export default function Home() {
       <Head>
         <title>wafuwafu13</title>
       </Head>
-      <div>
-        <Link href="https://github.com/wafuwafu13" title="GitHub" />
-        <Link
-          href="https://www.linkedin.com/in/hirotaka-tagawa/"
-          title="LinkedIn"
-        />
-        <Link
-          href="https://wafuwafu13.hatenadiary.com/"
-          title="Blog(Japanese)"
-        />
+      <div class="flex-col mt-10 justify-center ">
+        <div class="flex justify-center">
+          <div class="mx-5">
+            <Link href="https://github.com/wafuwafu13" title="GitHub" />
+          </div>
+          <div class="mx-5">
+            <Link
+              href="https://www.linkedin.com/in/hirotaka-tagawa/"
+              title="LinkedIn"
+            />
+          </div>
+          <div class="mx-5">
+            <Link
+              href="https://wafuwafu13.hatenadiary.com/"
+              title="Blog(Japanese)"
+            />
+          </div>
+        </div>
         <p class="flex justify-center my-8">
-          I like walking.
+          I like walking the world.
           <a href="/walking" class="mx-2" style={{ color: "blue" }}>
-            watch more video
+            watch more
           </a>
         </p>
         <Walking
           youtubeSrc={WalkingJson.japanFujinomori.youtubeSrc}
           mapSrc={WalkingJson.japanFujinomori.mapSrc}
           title={WalkingJson.japanFujinomori.title}
-          id="a"
+          id={WalkingJson.japanFujinomori.id}
+        />
+        <Walking
+          youtubeSrc={WalkingJson.japanFujinomori.youtubeSrc}
+          mapSrc={WalkingJson.japanFujinomori.mapSrc}
+          title={WalkingJson.japanFujinomori.title}
+          id={WalkingJson.japanFujinomori.id}
+        />
+        <Walking
+          youtubeSrc={WalkingJson.japanFujinomori.youtubeSrc}
+          mapSrc={WalkingJson.japanFujinomori.mapSrc}
+          title={WalkingJson.japanFujinomori.title}
+          id={WalkingJson.japanFujinomori.id}
         />
       </div>
     </>

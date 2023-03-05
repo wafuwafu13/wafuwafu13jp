@@ -14,7 +14,7 @@ export default function Japan() {
         </p>
         <a
           href="/walking"
-          class="flex justify-center my-2"
+          class="flex justify-center"
           style={{ color: "blue" }}
         >
           back
