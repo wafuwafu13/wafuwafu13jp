@@ -9,7 +9,7 @@ export default function Walking() {
       <div>
         <a
           href="/"
-          class="flex justify-center mt-8"
+          class="flex justify-center mt-8 text-xl"
           style={{ color: "blue" }}
         >
           Top

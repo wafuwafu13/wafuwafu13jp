@@ -28,7 +28,7 @@ export default function Home() {
           </div>
         </div>
         <p class="flex justify-center my-8">
-          I like walking the world.
+          Walking is my hobby.
           <a href="/walking" class="mx-2" style={{ color: "blue" }}>
             watch more
           </a>
