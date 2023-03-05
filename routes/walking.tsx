@@ -14,7 +14,7 @@ export default function Walking() {
         >
           Top
         </a>
-        <p class="flex justify-center mt-8 text-xl">
+        <p class="flex justify-center mt-8 text-lg">
           Country
         </p>
         <a
@@ -24,7 +24,7 @@ export default function Walking() {
         >
           Japan
         </a>
-        <p class="flex justify-center mt-10 text-xl">
+        <p class="flex justify-center mt-10 text-lg">
           Date
         </p>
         <a
