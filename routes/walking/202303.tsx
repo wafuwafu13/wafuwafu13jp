@@ -20,34 +20,28 @@ export default function TwentyThreeThree() {
           back
         </a>
         <Walking
-          youtubeSrc={WalkingJson.japanFujinomori.youtubeSrc}
-          mapSrc={WalkingJson.japanFujinomori.mapSrc}
-          title={WalkingJson.japanFujinomori.title}
-          id={WalkingJson.japanFujinomori.id}
+          id={WalkingJson.fujinomori.id}
+          title={WalkingJson.fujinomori.title}
+          youtubeSrc={WalkingJson.fujinomori.youtubeSrc}
+          mapSrc={WalkingJson.fujinomori.mapSrc}
         />
         <Walking
-          youtubeSrc={WalkingJson.japanFujinomori.youtubeSrc}
-          mapSrc={WalkingJson.japanFujinomori.mapSrc}
-          title={WalkingJson.japanFujinomori.title}
-          id="a"
+          id={WalkingJson.gyoen.id}
+          title={WalkingJson.gyoen.title}
+          youtubeSrc={WalkingJson.gyoen.youtubeSrc}
+          mapSrc={WalkingJson.gyoen.mapSrc}
         />
         <Walking
-          youtubeSrc={WalkingJson.japanFujinomori.youtubeSrc}
-          mapSrc={WalkingJson.japanFujinomori.mapSrc}
-          title={WalkingJson.japanFujinomori.title}
-          id="b"
+          id={WalkingJson.karasuma.id}
+          title={WalkingJson.karasuma.title}
+          youtubeSrc={WalkingJson.karasuma.youtubeSrc}
+          mapSrc={WalkingJson.karasuma.mapSrc}
         />
         <Walking
-          youtubeSrc={WalkingJson.japanFujinomori.youtubeSrc}
-          mapSrc={WalkingJson.japanFujinomori.mapSrc}
-          title={WalkingJson.japanFujinomori.title}
-          id="c"
-        />
-        <Walking
-          youtubeSrc={WalkingJson.japanFujinomori.youtubeSrc}
-          mapSrc={WalkingJson.japanFujinomori.mapSrc}
-          title={WalkingJson.japanFujinomori.title}
-          id="d"
+          id={WalkingJson.kamogawa.id}
+          title={WalkingJson.kamogawa.title}
+          youtubeSrc={WalkingJson.kamogawa.youtubeSrc}
+          mapSrc={WalkingJson.kamogawa.mapSrc}
         />
       </div>
     </>
