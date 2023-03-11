@@ -34,16 +34,16 @@ export default function Home() {
           </a>
         </p>
         <Walking
+          id={WalkingJson.fusimiinari.id}
+          title={WalkingJson.fusimiinari.title}
+          youtubeSrc={WalkingJson.fusimiinari.youtubeSrc}
+          mapSrc={WalkingJson.fusimiinari.mapSrc}
+        />
+        <Walking
           id={WalkingJson.fujinomori.id}
           title={WalkingJson.fujinomori.title}
           youtubeSrc={WalkingJson.fujinomori.youtubeSrc}
           mapSrc={WalkingJson.fujinomori.mapSrc}
-        />
-        <Walking
-          id={WalkingJson.gyoen.id}
-          title={WalkingJson.gyoen.title}
-          youtubeSrc={WalkingJson.gyoen.youtubeSrc}
-          mapSrc={WalkingJson.gyoen.mapSrc}
         />
         <Walking
           id={WalkingJson.kamogawa.id}

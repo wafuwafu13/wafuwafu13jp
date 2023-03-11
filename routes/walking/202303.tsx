@@ -43,6 +43,12 @@ export default function TwentyThreeThree() {
           youtubeSrc={WalkingJson.kamogawa.youtubeSrc}
           mapSrc={WalkingJson.kamogawa.mapSrc}
         />
+        <Walking
+          id={WalkingJson.fusimiinari.id}
+          title={WalkingJson.fusimiinari.title}
+          youtubeSrc={WalkingJson.fusimiinari.youtubeSrc}
+          mapSrc={WalkingJson.fusimiinari.mapSrc}
+        />
       </div>
     </>
   );
