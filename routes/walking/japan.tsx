@@ -19,36 +19,16 @@ export default function Japan() {
         >
           back
         </a>
-        <Walking
-          id={WalkingJson.fujinomori.id}
-          title={WalkingJson.fujinomori.title}
-          youtubeSrc={WalkingJson.fujinomori.youtubeSrc}
-          mapSrc={WalkingJson.fujinomori.mapSrc}
-        />
-        <Walking
-          id={WalkingJson.gyoen.id}
-          title={WalkingJson.gyoen.title}
-          youtubeSrc={WalkingJson.gyoen.youtubeSrc}
-          mapSrc={WalkingJson.gyoen.mapSrc}
-        />
-        <Walking
-          id={WalkingJson.karasuma.id}
-          title={WalkingJson.karasuma.title}
-          youtubeSrc={WalkingJson.karasuma.youtubeSrc}
-          mapSrc={WalkingJson.karasuma.mapSrc}
-        />
-        <Walking
-          id={WalkingJson.kamogawa.id}
-          title={WalkingJson.kamogawa.title}
-          youtubeSrc={WalkingJson.kamogawa.youtubeSrc}
-          mapSrc={WalkingJson.kamogawa.mapSrc}
-        />
-        <Walking
-          id={WalkingJson.fusimiinari.id}
-          title={WalkingJson.fusimiinari.title}
-          youtubeSrc={WalkingJson.fusimiinari.youtubeSrc}
-          mapSrc={WalkingJson.fusimiinari.mapSrc}
-        />
+        {Object.values(WalkingJson).filter((walking) =>
+          walking.place == "japan"
+        ).map((walking) => (
+          <Walking
+            id={walking.id}
+            title={walking.title}
+            youtubeSrc={walking.youtubeSrc}
+            mapSrc={walking.mapSrc}
+          />
+        ))}
       </div>
     </>
   );

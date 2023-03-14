@@ -1,32 +1,58 @@
 {
   "fujinomori": {
     "id": "fujinomori",
+    "place": "japan",
+    "date": "202303",
     "title": "JR-Fujinomori Station(JR藤森駅) ~ Fujinomori Shrine(藤森神社)",
     "youtubeSrc": "https://www.youtube.com/embed/5whfZDkHROM",
     "mapSrc": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2142.6704488327714!2d135.77304750950293!3d34.94980708794495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x60010fa1531bd6bd%3A0x9a4b3e249b597860!2z5Lqs6YO95bqc5Lqs6YO95biC5LyP6KaL5Yy65rex6I2J5aSn5LqA6LC35p2x5a-655S6IO-8qu-8suiXpOajrumnhQ!3m2!1d34.9482345!2d135.7756951!4m5!1s0x60010f0ac60e5937%3A0x996ab9caafffc710!2z5Lqs6YO95bqc5Lqs6YO95biC5LyP6KaL5Yy65rex6I2J6bOl5bGF5bSO55S677yW77yQ77yZIOiXpOajruelnuekvg!3m2!1d34.9513617!2d135.7717092!5e0!3m2!1sja!2sjp!4v1677934662440!5m2!1sja!2sjp"
   },
   "gyoen": {
     "id": "gyoen",
+    "place": "japan",
+    "date": "202303",
     "title": "Kyoto Gyoen National Garden(京都御苑)",
     "youtubeSrc": "https://www.youtube.com/embed/T-G0SXC0UCA",
     "mapSrc": "https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d2707.0039481738277!2d135.76035568239902!3d35.02073446328795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!3e2!4m3!3m2!1d35.019584!2d135.7608299!4m3!3m2!1d35.0207589!2d135.76080969999998!5e0!3m2!1sja!2sjp!4v1678245125821!5m2!1sja!2sjp"
   },
   "karasuma": {
     "id": "karasuma",
+    "place": "japan",
+    "date": "202303",
     "title": "Karasuma-dori Street(烏丸通)",
     "youtubeSrc": "https://www.youtube.com/embed/8LHZZJbuDn0",
     "mapSrc": "https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d1426.540229933725!2d135.75869349847991!3d35.0293952452364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!3e2!4m3!3m2!1d35.0305902!2d135.7592229!4m3!3m2!1d35.0291522!2d135.7597998!5e0!3m2!1sja!2sjp!4v1678248991117!5m2!1sja!2sjp"
   },
   "kamogawa": {
     "id": "kamogawa",
+    "place": "japan",
+    "date": "202303",
     "title": "Kamogawa River(鴨川)",
     "youtubeSrc": "https://www.youtube.com/embed/oejwtEHAFDE",
     "mapSrc": "https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d2435.246563171207!2d135.77329168090432!3d35.02665247456166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!3e2!4m3!3m2!1d35.0288065!2d135.7710495!4m3!3m2!1d35.0264123!2d135.7711696!5e0!3m2!1sja!2sjp!4v1678248715424!5m2!1sja!2sjp"
   },
   "fusimiinari": {
     "id": "fusimiinari",
+    "place": "japan",
+    "date": "202303",
     "title": "Fushimi-Inari Taisha Shrine(伏見稲荷大社)",
     "youtubeSrc": "https://www.youtube.com/embed/c7mopl8giL8",
     "mapSrc": "https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d1744.0768540116342!2d135.7710374846465!3d34.96753955847617!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!3e2!4m3!3m2!1d34.967715!2d135.7719675!4m3!3m2!1d34.9679284!2d135.77017999999998!5e0!3m2!1sja!2sjp!4v1678507506835!5m2!1sja!2sjp"
+  },
+  "shirakawago": {
+    "id": "shirakawago",
+    "place": "japan",
+    "date": "202303",
+    "title": "Shirakawa-go(白川郷)",
+    "youtubeSrc": "https://www.youtube.com/embed/Oz7REa1qXD0",
+    "mapSrc": "https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d3217.142920103355!2d136.90524913989515!3d36.260308990600144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e2!4m3!3m2!1d36.2590114!2d136.9066047!4m5!1s0x5ff871bf16baab87%3A0xa5a7ce71d93fcd23!2z6I2755S644CB44CSNTAxLTU2Mjcg5bKQ6Zic55yM5aSn6YeO6YOh55m95bed5p2R!3m2!1d36.2616101!2d136.906524!5e0!3m2!1sja!2sjp!4v1678799964433!5m2!1sja!2sjp"
+  },
+  "kenrokuen": {
+    "id": "kenrokuen",
+    "place": "japan",
+    "date": "202303",
+    "title": "Kenroku-en Garden(兼六園)",
+    "youtubeSrc": "https://www.youtube.com/embed/P38WLsTrmuw",
+    "mapSrc": "https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d1115.3682469165994!2d136.66065191357262!3d36.5626165965213!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!3e2!4m3!3m2!1d36.5623296!2d136.6618287!4m3!3m2!1d36.561999899999996!2d136.6604399!5e0!3m2!1sja!2sjp!4v1678800153533!5m2!1sja!2sjp"
   }
 }

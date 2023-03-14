@@ -6,7 +6,7 @@ export default function TwentyThreeThree() {
   return (
     <>
       <Head>
-        <title>walking-japan</title>
+        <title>walking-2023/03</title>
       </Head>
       <div>
         <p class="flex justify-center my-8 text-xl">
@@ -19,36 +19,16 @@ export default function TwentyThreeThree() {
         >
           back
         </a>
-        <Walking
-          id={WalkingJson.fujinomori.id}
-          title={WalkingJson.fujinomori.title}
-          youtubeSrc={WalkingJson.fujinomori.youtubeSrc}
-          mapSrc={WalkingJson.fujinomori.mapSrc}
-        />
-        <Walking
-          id={WalkingJson.gyoen.id}
-          title={WalkingJson.gyoen.title}
-          youtubeSrc={WalkingJson.gyoen.youtubeSrc}
-          mapSrc={WalkingJson.gyoen.mapSrc}
-        />
-        <Walking
-          id={WalkingJson.karasuma.id}
-          title={WalkingJson.karasuma.title}
-          youtubeSrc={WalkingJson.karasuma.youtubeSrc}
-          mapSrc={WalkingJson.karasuma.mapSrc}
-        />
-        <Walking
-          id={WalkingJson.kamogawa.id}
-          title={WalkingJson.kamogawa.title}
-          youtubeSrc={WalkingJson.kamogawa.youtubeSrc}
-          mapSrc={WalkingJson.kamogawa.mapSrc}
-        />
-        <Walking
-          id={WalkingJson.fusimiinari.id}
-          title={WalkingJson.fusimiinari.title}
-          youtubeSrc={WalkingJson.fusimiinari.youtubeSrc}
-          mapSrc={WalkingJson.fusimiinari.mapSrc}
-        />
+        {Object.values(WalkingJson).filter((walking) =>
+          walking.date == "202303"
+        ).map((walking) => (
+          <Walking
+            id={walking.id}
+            title={walking.title}
+            youtubeSrc={walking.youtubeSrc}
+            mapSrc={walking.mapSrc}
+          />
+        ))}
       </div>
     </>
   );
