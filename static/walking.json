@@ -54,5 +54,21 @@
     "title": "Kenroku-en Garden(兼六園)",
     "youtubeSrc": "https://www.youtube.com/embed/P38WLsTrmuw",
     "mapSrc": "https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d1115.3682469165994!2d136.66065191357262!3d36.5626165965213!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!3e2!4m3!3m2!1d36.5623296!2d136.6618287!4m3!3m2!1d36.561999899999996!2d136.6604399!5e0!3m2!1sja!2sjp!4v1678800153533!5m2!1sja!2sjp"
+  },
+  "citycenter": {
+    "id": "citycenter",
+    "place": "ireland",
+    "date": "202307",
+    "title": "Dublin City Center",
+    "youtubeSrc": "https://www.youtube.com/embed/nIeAkWg4p9Q",
+    "mapSrc": "https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d18911.721653116474!2d-6.2428354017327825!3d53.34014433525926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e3!4m3!3m2!1d53.342961599999995!2d-6.2594429!4m5!1s0x48670e9c021826e3%3A0x860f423388fd605d!2s50-51%20Grafton%20Street%2C%20Dublin%202%2C%20D02%20K635!3m2!1d53.340134!2d-6.2605746!5e0!3m2!1sen!2sie!4v1688841661349!5m2!1sen!2sie"
+  },
+  "stephensgreen": {
+    "id": "stephensgreen",
+    "place": "ireland",
+    "date": "202307",
+    "title": "St Stephen's Green",
+    "youtubeSrc": "https://www.youtube.com/embed/34IjCWyIjk0",
+    "mapSrc": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2382.2088582287793!2d-6.262971322896385!3d53.339517375234045!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sie!4v1688842360071!5m2!1sen!2sie"
   }
 }

@@ -6,14 +6,18 @@ import config from "./deno.json" assert { type: "json" };
 import * as $0 from "./routes/index.tsx";
 import * as $1 from "./routes/walking.tsx";
 import * as $2 from "./routes/walking/202303.tsx";
-import * as $3 from "./routes/walking/japan.tsx";
+import * as $3 from "./routes/walking/202307.tsx";
+import * as $4 from "./routes/walking/ireland.tsx";
+import * as $5 from "./routes/walking/japan.tsx";
 
 const manifest = {
   routes: {
     "./routes/index.tsx": $0,
     "./routes/walking.tsx": $1,
     "./routes/walking/202303.tsx": $2,
-    "./routes/walking/japan.tsx": $3,
+    "./routes/walking/202307.tsx": $3,
+    "./routes/walking/ireland.tsx": $4,
+    "./routes/walking/japan.tsx": $5,
   },
   islands: {},
   baseUrl: import.meta.url,

@@ -24,6 +24,13 @@ export default function Walking() {
         >
           Japan
         </a>
+        <a
+          href="/walking/ireland"
+          class="flex justify-center my-4"
+          style={{ color: "blue" }}
+        >
+          Ireland
+        </a>
         <p class="flex justify-center mt-10 text-lg">
           Date
         </p>
@@ -33,6 +40,13 @@ export default function Walking() {
           style={{ color: "blue" }}
         >
           2023/03
+        </a>
+        <a
+          href="/walking/202307"
+          class="flex justify-center my-4"
+          style={{ color: "blue" }}
+        >
+          2023/07
         </a>
       </div>
     </>
