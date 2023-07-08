@@ -1,4 +1,5 @@
 import { Head } from "$fresh/runtime.ts";
+import { LinkToContent } from "../components/LinkToContent.tsx";
 
 export default function Walking() {
   return (
@@ -17,37 +18,13 @@ export default function Walking() {
         <p class="flex justify-center mt-8 text-lg">
           Country
         </p>
-        <a
-          href="/walking/japan"
-          class="flex justify-center my-4"
-          style={{ color: "blue" }}
-        >
-          Japan
-        </a>
-        <a
-          href="/walking/ireland"
-          class="flex justify-center my-4"
-          style={{ color: "blue" }}
-        >
-          Ireland
-        </a>
+        <LinkToContent href="/walking/japan" title="Japan" />
+        <LinkToContent href="/walking/ireland" title="Ireland" />
         <p class="flex justify-center mt-10 text-lg">
           Date
         </p>
-        <a
-          href="/walking/202303"
-          class="flex justify-center my-4"
-          style={{ color: "blue" }}
-        >
-          2023/03
-        </a>
-        <a
-          href="/walking/202307"
-          class="flex justify-center my-4"
-          style={{ color: "blue" }}
-        >
-          2023/07
-        </a>
+        <LinkToContent href="/walking/202303" title="2023/03" />
+        <LinkToContent href="/walking/202307" title="2023/07" />
       </div>
     </>
   );

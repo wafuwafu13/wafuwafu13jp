@@ -3,7 +3,7 @@ type LinkProps = {
   title: string;
 };
 
-export function Link({ href, title }: LinkProps) {
+export function LinkToExternal({ href, title }: LinkProps) {
   return (
     <>
       <a href={href} style={{ color: "blue" }} target="_blank">
