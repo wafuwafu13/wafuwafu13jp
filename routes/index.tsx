@@ -49,10 +49,10 @@ export default function Home() {
           mapSrc={WalkingJson.citycenter.mapSrc}
         />
         <Walking
-          id={WalkingJson.shirakawago.id}
-          title={WalkingJson.shirakawago.title}
-          youtubeSrc={WalkingJson.shirakawago.youtubeSrc}
-          mapSrc={WalkingJson.shirakawago.mapSrc}
+          id={WalkingJson.towerbridge.id}
+          title={WalkingJson.towerbridge.title}
+          youtubeSrc={WalkingJson.towerbridge.youtubeSrc}
+          mapSrc={WalkingJson.towerbridge.mapSrc}
         />
       </div>
     </>
