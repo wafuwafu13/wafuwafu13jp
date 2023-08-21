@@ -10,7 +10,8 @@ import * as $3 from "./routes/walking/202307.tsx";
 import * as $4 from "./routes/walking/202308.tsx";
 import * as $5 from "./routes/walking/ireland.tsx";
 import * as $6 from "./routes/walking/japan.tsx";
-import * as $7 from "./routes/walking/uk.tsx";
+import * as $7 from "./routes/walking/scotland.tsx";
+import * as $8 from "./routes/walking/uk.tsx";
 
 const manifest = {
   routes: {
@@ -21,7 +22,8 @@ const manifest = {
     "./routes/walking/202308.tsx": $4,
     "./routes/walking/ireland.tsx": $5,
     "./routes/walking/japan.tsx": $6,
-    "./routes/walking/uk.tsx": $7,
+    "./routes/walking/scotland.tsx": $7,
+    "./routes/walking/uk.tsx": $8,
   },
   islands: {},
   baseUrl: import.meta.url,
