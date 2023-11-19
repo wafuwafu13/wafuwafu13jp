@@ -23,12 +23,16 @@ export default function Walking() {
         <LinkToContent href="/walking/uk" title="United Kingdom" />
         <LinkToContent href="/walking/scotland" title="Scotland" />
         <LinkToContent href="/walking/germany" title="Germany" />
+        <LinkToContent href="/walking/netherlands" title="Netherlands" />
+        <LinkToContent href="/walking/france" title="France" />
         <p class="flex justify-center mt-10 text-lg">
           Date
         </p>
         <LinkToContent href="/walking/202303" title="2023/03" />
         <LinkToContent href="/walking/202307" title="2023/07" />
         <LinkToContent href="/walking/202308" title="2023/08" />
+        <LinkToContent href="/walking/202310" title="2023/10" />
+        <LinkToContent href="/walking/202311" title="2023/11" />
       </div>
     </>
   );

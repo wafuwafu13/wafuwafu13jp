@@ -134,5 +134,37 @@
     "title": "St Stephan's Church",
     "youtubeSrc": "https://www.youtube.com/embed/Q03ConnNxmU",
     "mapSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15066.10857060208!2d8.253029734271243!3d49.99903534072073!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bd96e49dd04d27%3A0x9df7a9803a48e79c!2sMainz!5e0!3m2!1sen!2sie!4v1693255039189!5m2!1sen!2sie"
+  },
+  "de9": {
+    "id": "de9",
+    "place": "Netherlands",
+    "date": "2023/10",
+    "title": "De 9 Straatjes",
+    "youtubeSrc": "https://www.youtube.com/embed/liCQfoDnjoQ",
+    "mapSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2435.991082722083!2d4.882949477036941!3d52.37058169728076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c3a7016013%3A0x80a0ee898935f32c!2sNegen%20Straatjes%2C%20Amsterdam%2C%20Netherlands!5e0!3m2!1sen!2sie!4v1700424093762!5m2!1sen!2sie"
+  },
+  "eiffeltower": {
+    "id": "eiffeltower",
+    "place": "France",
+    "date": "2023/11",
+    "title": "Eiffel Tower",
+    "youtubeSrc": "https://www.youtube.com/embed/IaB6_-659Fk",
+    "mapSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.991441025358!2d2.2919063768818253!3d48.85837360070701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e2964e34e2d%3A0x8ddca9ee380ef7e0!2sEiffel%20Tower!5e0!3m2!1sen!2sie!4v1700424374809!5m2!1sen!2sie"
+  },
+  "arcdetriomphe": {
+    "id": "earcdetriomphe",
+    "place": "France",
+    "date": "2023/11",
+    "title": "Arc de Triomphe",
+    "youtubeSrc": "https://www.youtube.com/embed/CQOHkeQZsX4",
+    "mapSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.1826146829344!2d2.2924525768824724!3d48.87379519962165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66fec70fb1d8f%3A0xd9b5676e112e643d!2sArc%20de%20Triomphe!5e0!3m2!1sen!2sie!4v1700424586545!5m2!1sen!2sie"
+  },
+  "palaceofversailles": {
+    "id": "palaceofversailles",
+    "place": "France",
+    "date": "2023/11",
+    "title": "Palace of Versailles",
+    "youtubeSrc": "https://www.youtube.com/embed/M7rzbWw7Tjg",
+    "mapSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2627.7961870132863!2d2.117780476879523!3d48.80486840447099!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67d94d7b14c75%3A0x538fcc15f59ce8f!2sPalace%20of%20Versailles!5e0!3m2!1sen!2sie!4v1700424672672!5m2!1sen!2sie"
   }
 }

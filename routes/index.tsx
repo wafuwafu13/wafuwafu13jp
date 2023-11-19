@@ -43,10 +43,10 @@ export default function Home() {
           mapSrc={WalkingJson.fusimiinari.mapSrc}
         />
         <Walking
-          id={WalkingJson.citycenter.id}
-          title={WalkingJson.citycenter.title}
-          youtubeSrc={WalkingJson.citycenter.youtubeSrc}
-          mapSrc={WalkingJson.citycenter.mapSrc}
+          id={WalkingJson.eiffeltower.id}
+          title={WalkingJson.eiffeltower.title}
+          youtubeSrc={WalkingJson.eiffeltower.youtubeSrc}
+          mapSrc={WalkingJson.eiffeltower.mapSrc}
         />
         <Walking
           id={WalkingJson.towerbridge.id}
