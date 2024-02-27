@@ -166,5 +166,29 @@
     "title": "Palace of Versailles",
     "youtubeSrc": "https://www.youtube.com/embed/M7rzbWw7Tjg",
     "mapSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2627.7961870132863!2d2.117780476879523!3d48.80486840447099!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67d94d7b14c75%3A0x538fcc15f59ce8f!2sPalace%20of%20Versailles!5e0!3m2!1sen!2sie!4v1700424672672!5m2!1sen!2sie"
+  },
+  "santangelo": {
+    "id": "santangelo",
+    "place": "Italy",
+    "date": "2024/02",
+    "title": "Castel Sant'Angelo",
+    "youtubeSrc": "https://www.youtube.com/embed/vMV0ekfTNsQ",
+    "mapSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3758.6915064543036!2d12.463492934677621!3d41.903146743420166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f605ca1d70975%3A0xa8ab4616b7b40209!2sSt.%20Angelo%20Bridge!5e0!3m2!1sen!2sie!4v1709070908890!5m2!1sen!2sie"
+  },
+  "santamaria": {
+    "id": "santamaria",
+    "place": "Italy",
+    "date": "2024/02",
+    "title": "Cathedral of Santa Maria del Fiore",
+    "youtubeSrc": "https://www.youtube.com/embed/whjn7ANfyLo",
+    "mapSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2880.986028957577!2d11.253385276673717!3d43.7731488446638!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132a5403bfe22ff5%3A0x5591438487aaf1f5!2sCathedral%20of%20Santa%20Maria%20del%20Fiore!5e0!3m2!1sen!2sie!4v1709070632566!5m2!1sen!2sie"
+  },
+  "pisa": {
+    "id": "pisa",
+    "place": "Italy",
+    "date": "2024/02",
+    "title": "Leaning Tower of Pisa",
+    "youtubeSrc": "https://www.youtube.com/embed/TxvazjR61II",
+    "mapSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2883.4029282890374!2d10.394022076671748!3d43.72295584791568!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12d591a6c44e88cd%3A0x32eca9b1d554fc03!2sLeaning%20Tower%20of%20Pisa!5e0!3m2!1sen!2sie!4v1709070692815!5m2!1sen!2sie"
   }
 }

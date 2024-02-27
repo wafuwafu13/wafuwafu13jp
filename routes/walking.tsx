@@ -25,6 +25,7 @@ export default function Walking() {
         <LinkToContent href="/walking/germany" title="Germany" />
         <LinkToContent href="/walking/netherlands" title="Netherlands" />
         <LinkToContent href="/walking/france" title="France" />
+        <LinkToContent href="/walking/italy" title="Italy" />
         <p class="flex justify-center mt-10 text-lg">
           Date
         </p>
@@ -33,6 +34,7 @@ export default function Walking() {
         <LinkToContent href="/walking/202308" title="2023/08" />
         <LinkToContent href="/walking/202310" title="2023/10" />
         <LinkToContent href="/walking/202311" title="2023/11" />
+        <LinkToContent href="/walking/202402" title="2024/02" />
       </div>
     </>
   );
