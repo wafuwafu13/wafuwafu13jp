@@ -190,5 +190,21 @@
     "title": "Leaning Tower of Pisa",
     "youtubeSrc": "https://www.youtube.com/embed/TxvazjR61II",
     "mapSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2883.4029282890374!2d10.394022076671748!3d43.72295584791568!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12d591a6c44e88cd%3A0x32eca9b1d554fc03!2sLeaning%20Tower%20of%20Pisa!5e0!3m2!1sen!2sie!4v1709070692815!5m2!1sen!2sie"
+  },
+  "iowa": {
+    "id": "iowa",
+    "place": "United States",
+    "date": "2024/03",
+    "title": "Battleship USS Iowa Museum",
+    "youtubeSrc": "https://www.youtube.com/embed/Fs8_NZcTHrs",
+    "mapSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3317.7118725969804!2d-118.27986258780982!3d33.74226593392153!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dd36383cd29675%3A0x8183b6406a7e24eb!2sBattleship%20USS%20Iowa%20Museum!5e0!3m2!1sen!2sie!4v1710190951223!5m2!1sen!2sie"
+  },
+  "fremont": {
+    "id": "fremont",
+    "place": "United States",
+    "date": "2024/03",
+    "title": "Fremont Street Experience",
+    "youtubeSrc": "https://www.youtube.com/embed/rE4DnQG4jSc",
+    "mapSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3220.828333161271!2d-115.14640318774202!3d36.17073180281299!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c8c39fe106ae7b%3A0x19ef4a53d2cc5034!2sFremont%20Street%20Experience!5e0!3m2!1sen!2sie!4v1710191035375!5m2!1sen!2sie"
   }
 }

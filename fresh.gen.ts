@@ -11,14 +11,16 @@ import * as $4 from "./routes/walking/202308.tsx";
 import * as $5 from "./routes/walking/202310.tsx";
 import * as $6 from "./routes/walking/202311.tsx";
 import * as $7 from "./routes/walking/202402.tsx";
-import * as $8 from "./routes/walking/france.tsx";
-import * as $9 from "./routes/walking/germany.tsx";
-import * as $10 from "./routes/walking/ireland.tsx";
-import * as $11 from "./routes/walking/italy.tsx";
-import * as $12 from "./routes/walking/japan.tsx";
-import * as $13 from "./routes/walking/netherlands.tsx";
-import * as $14 from "./routes/walking/scotland.tsx";
-import * as $15 from "./routes/walking/uk.tsx";
+import * as $8 from "./routes/walking/202403.tsx";
+import * as $9 from "./routes/walking/france.tsx";
+import * as $10 from "./routes/walking/germany.tsx";
+import * as $11 from "./routes/walking/ireland.tsx";
+import * as $12 from "./routes/walking/italy.tsx";
+import * as $13 from "./routes/walking/japan.tsx";
+import * as $14 from "./routes/walking/netherlands.tsx";
+import * as $15 from "./routes/walking/scotland.tsx";
+import * as $16 from "./routes/walking/uk.tsx";
+import * as $17 from "./routes/walking/usa.tsx";
 
 const manifest = {
   routes: {
@@ -30,14 +32,16 @@ const manifest = {
     "./routes/walking/202310.tsx": $5,
     "./routes/walking/202311.tsx": $6,
     "./routes/walking/202402.tsx": $7,
-    "./routes/walking/france.tsx": $8,
-    "./routes/walking/germany.tsx": $9,
-    "./routes/walking/ireland.tsx": $10,
-    "./routes/walking/italy.tsx": $11,
-    "./routes/walking/japan.tsx": $12,
-    "./routes/walking/netherlands.tsx": $13,
-    "./routes/walking/scotland.tsx": $14,
-    "./routes/walking/uk.tsx": $15,
+    "./routes/walking/202403.tsx": $8,
+    "./routes/walking/france.tsx": $9,
+    "./routes/walking/germany.tsx": $10,
+    "./routes/walking/ireland.tsx": $11,
+    "./routes/walking/italy.tsx": $12,
+    "./routes/walking/japan.tsx": $13,
+    "./routes/walking/netherlands.tsx": $14,
+    "./routes/walking/scotland.tsx": $15,
+    "./routes/walking/uk.tsx": $16,
+    "./routes/walking/usa.tsx": $17,
   },
   islands: {},
   baseUrl: import.meta.url,
